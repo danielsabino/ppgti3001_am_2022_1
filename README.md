@@ -77,19 +77,17 @@ Ao final do curso, o discente será capaz de:
 
 ### Objetivo geral
 
-Utilizar algoritmos de Aprendizado de Máquina (AM) para solucionar um problema de escolha do grupo.
+Construir artigo científico que descreve a utilização de algoritmos de aprendizado de máquina para desenvolver modelos capazes de produzir soluções para o problema.
 
 ### Objetivos específicos
 
 a) avaliar um problema que pode ser solucionado por AM;
 
-b) organizar a base de dados para utilizar no contexto de AM;
+b) organizar e pré-processar uma base de dados para utilizar no contexto de AM;
 
-c) pré-processar a base de acordo com os procedimentos necessários;
+c) escolher e aplicar algoritmos de classificação e/ou agrupamento para solucionar o problema;
 
-d) aplicar algoritmos de classificação e/ou agrupamento para solucionar o problema;
-
-e) interpretar os resultados e exibir as conclusões obtidas com as informações extraídas.
+d) interpretar os resultados e emitir conclusões obtidas com as informações extraídas.
 
 ### Descrição do projeto
 
@@ -103,10 +101,53 @@ Os resultados devem ser descritos e interpretados, considerando a comparação e
 
 Como ferramentas, a equipe pode utilizar uma das ferramentas vistas na disciplina ou utilizar qualquer outra que tenha domínio.
 
-### Organização geral do trabalho
+O trabalho deve ser descrito na forma de artigo e apresentado ao final da disciplina. 
 
-Cada equipe deve apresentar seu projeto no dia 30/07/2022. O tempo de duração das apresentações não deve ser superior a 15 minutos.
+### Organização do artigo
 
+Como _sugestão_, o artigo pode ter a seguinte estrutura:
+
+1. Resumo: descreve de forma suscinta todo o desenvolvimento do trabalho.
+2. Introdução: contextualiza o trabalho e fornece a visão geral dos objetivos e motivação.
+3. Problemática: descrição do problema a ser atacado pelos algoritmos de AM. 
+4. Trabalhos relacionados: relaciona e analisa os trabalhos semelhantes presentes na literatura.
+5. Materiais e Métodos: descreve as técnicas e bases de dados a serem utilizadas, bem como os procedimentos usados para realizar a experimentação.
+6. Resultados: exibição e discussão sobre os resultados alcançados.
+7. Conclusões: principais considerações sobre o trabalho desenvolvido.
+
+Cada grupo pode escolher o template que achar mais adequado, mas como sugestão, pode ser utilizado o [modelo](https://www.sbc.org.br/documentos-da-sbc/send/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos) da Socidade Brasileira de Computação.
+
+O artigo vai ser feito de forma incremental, com entregas semanais. O seguinte cronograma será utilizado:
+
+16/07:
+
+- Introdução
+- Problemática
+
+23/07:
+
+- Trabalhos relacionados
+- Materiais e métodos
+
+30/07:
+
+- Resultados
+
+06/08:
+
+- Resumo
+- Conclusões
+
+O artigo final poderá ser entregue uma semana após o término da disciplina. A cada semana, não é esperado que as seções estejam completas, mas que tenham sido iniciadas e possuam direcionamento.
+
+Apesar de a entrega ser feita após o último dia da disciplina, os resultados obtidos devem ser apresentados por
+cada equipe no dia 30/07/2022. O tempo de duração das apresentações não deve ser superior a 15 minutos.
+
+## Comunicação
+
+A principal ferramenta de comunicação utilizada durante o curso da disciplina será o servidor no Discord. Utilize esse [convite](https://discord.gg/Uk9vpGGuuP) para acessar.
+
+Vamos também utilizar o SIGAA, mas o Discord será para comunicações maiis rápidas entre os membros da turma.
 ## Referências
 
 1. Katti Faceli et al.. Inteligência artificial: uma abordagem de aprendizado de máquina. - Rio de Janeiro, RJ: LTC Ed., c2021.
