@@ -38,39 +38,42 @@ Ao final do curso, o discente será capaz de:
 
 ### Cronograma
 
-- Semana 01 - Sexta - 08/07
+- ~~Semana 01 - Sexta - 08/07 - Remoto~~
   - Apresentação da disciplina e informações gerais
   - Introdução ao Aprendizado de Máquina
-
-- Semana 01 - Sábado - 09/07
+  - Slides em [PDF](./01_Introducao/slides/PPgTI3001%20-%202022.1%20-%20AM%20-%2001%20-%20Introdu%C3%A7%C3%A3o.pdf) ou [Google Docs](https://docs.google.com/presentation/d/1LN1KMfaIN8gKBZFe6J4m68FHsYd_RhxagrGjsdzq-l0/edit?usp=sharing)
+  - [Vídeo da aula](https://youtu.be/9ppcTOEqjE0)
+- ~~Semana 01 - Sábado - 09/07 - Remoto~~
   - Análise de Dados
   - Tratamento dos Dados
   - Transformação de dados
+  - Slides em [PDF](./02_Analise_e_Visualizacao_de_dados/slides/PPgTI3001%20-%202022.1%20-%20AM%20-%2002%20-%20An%C3%A1lise%20e%20Visualiza%C3%A7%C3%A3o%20de%20Dados.pdf) ou [Google Docs](https://docs.google.com/presentation/d/10J49_bTuvD-9xu66jh9YudWAFbBrBzWDDl5d15aDqps/edit?usp=sharing)
+  - [Notebooks](./02_Analise_e_Visualizacao_de_dados/exemplos/)
+  - [Vídeo da aula](https://youtu.be/VCYxwih4Z8Q)
 
-- Semana 02 - Sexta - 15/07
+- Semana 02 - Sexta - 15/07 - Remoto
   - Classificação
   - Árvores de Decisão
   - Vizinhos mais próximos
   - Validação de Classificação
 
-- Semana 02 - Sábado - 16/07
+- Semana 02 - Sábado - 16/07 - Remoto
   - Redes Neurais Artificiais  
 
-- Semana 03 - Sexta - 22/07
+- Semana 03 - Sexta - 22/07 - Presencial
   - Análise de Agrupamentos
   - Medidas de similaridade
   - Dendograma e algoritmos hierárquicos.
   - k-means
   - Validação de agrupamentos
-  - Exemplos
 
-- Semana 03 - Sábado - 23/07
-  - Deep Learning: Redes neurais convolucionais
+- Semana 03 - Sábado - 23/07 - Remoto
+  - Dedicado para discentes trabalharem no projeto.
 
-- Semana 04 - Sexta - 29/07
-  - Acompanhamento dos projetos
+- Semana 04 - Sexta - 29/07 - Remoto
+  - Aplicações
 
-- Semana 04 - Sábado - 30/07
+- Semana 04 - Sábado - 30/07 - Presencial
   - Apresentação de projetos finais
 
 ## Projeto
