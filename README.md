@@ -56,9 +56,15 @@ Ao final do curso, o discente será capaz de:
   - Árvores de Decisão
   - Vizinhos mais próximos
   - Validação de Classificação
+  - Slides em [PDF](./03_AM_Supervisionado_Parte_I/slides/PPgTI3001%20-%202022.1%20-%20AM%20-%2003%20-%20Classifica%C3%A7%C3%A3o%20-%20Parte%20I.pdf) ou [Google Docs](https://docs.google.com/presentation/d/1LsiuxaRrVKTU2rAg3toKLmzbKifZv6NMc3xeNbNW70U/edit?usp=sharing)
+  - [Notebooks](./03_AM_Supervisionado_Parte_I/exemplos/)
+  - [Vídeo da aula]()
 
 - Semana 02 - Sábado - 16/07 - Remoto
-  - Redes Neurais Artificiais  
+  - Redes Neurais Artificiais
+  - Slides em [PDF](./04_AM_Supervisionado_Parte_II/slides/PPgTI3001%20-%202022.1%20-%20AM%20-%2004%20-%20Classifica%C3%A7%C3%A3o%20-%20Parte%20II.pdf) ou [Google Docs](https://docs.google.com/presentation/d/1eULsm-bcuArCgLR0caz5JMs-xkHKmYK5VQ5KxuyZV6E/edit?usp=sharing)
+  - [Notebooks](./04_AM_Supervisionado_Parte_II/exemplos/)
+  - [Vídeo da aula]() 
 
 - Semana 03 - Sexta - 22/07 - Presencial
   - Análise de Agrupamentos
