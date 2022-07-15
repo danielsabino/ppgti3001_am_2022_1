@@ -126,7 +126,7 @@ Como _sugestão_, o artigo pode ter a seguinte estrutura:
 
 Cada grupo pode escolher o template que achar mais adequado, mas como sugestão, pode ser utilizado o [modelo](https://www.sbc.org.br/documentos-da-sbc/send/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos) da Socidade Brasileira de Computação.
 
-O artigo vai ser feito de forma incremental, com entregas semanais. O seguinte cronograma será utilizado:
+O artigo vai ser feito de forma incremental, com entregas semanais (enviar por email para daniel@imd.ufrn.br). O seguinte cronograma será utilizado:
 
 16/07:
 
