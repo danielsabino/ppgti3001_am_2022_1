@@ -51,20 +51,20 @@ Ao final do curso, o discente será capaz de:
   - [Notebooks](./02_Analise_e_Visualizacao_de_dados/exemplos/)
   - [Vídeo da aula](https://youtu.be/VCYxwih4Z8Q)
 
-- Semana 02 - Sexta - 15/07 - Remoto
+- ~~Semana 02 - Sexta - 15/07 - Remoto~~
   - Classificação
   - Árvores de Decisão
   - Vizinhos mais próximos
   - Validação de Classificação
   - Slides em [PDF](./03_AM_Supervisionado_Parte_I/slides/PPgTI3001%20-%202022.1%20-%20AM%20-%2003%20-%20Classifica%C3%A7%C3%A3o%20-%20Parte%20I.pdf) ou [Google Docs](https://docs.google.com/presentation/d/1LsiuxaRrVKTU2rAg3toKLmzbKifZv6NMc3xeNbNW70U/edit?usp=sharing)
   - [Notebooks](./03_AM_Supervisionado_Parte_I/exemplos/)
-  - [Vídeo da aula]()
+  - [Vídeo da aula](https://youtu.be/JW8_5FyaiZk)
 
-- Semana 02 - Sábado - 16/07 - Remoto
+- ~~Semana 02 - Sábado - 16/07 - Remoto~~
   - Redes Neurais Artificiais
   - Slides em [PDF](./04_AM_Supervisionado_Parte_II/slides/PPgTI3001%20-%202022.1%20-%20AM%20-%2004%20-%20Classifica%C3%A7%C3%A3o%20-%20Parte%20II.pdf) ou [Google Docs](https://docs.google.com/presentation/d/1eULsm-bcuArCgLR0caz5JMs-xkHKmYK5VQ5KxuyZV6E/edit?usp=sharing)
   - [Notebooks](./04_AM_Supervisionado_Parte_II/exemplos/)
-  - [Vídeo da aula]() 
+  - [Vídeo da aula](https://youtu.be/udHo-iYRnsU) 
 
 - Semana 03 - Sexta - 22/07 - Presencial
   - Análise de Agrupamentos
@@ -158,6 +158,8 @@ A principal ferramenta de comunicação utilizada durante o curso da disciplina 
 
 Vamos também utilizar o SIGAA, mas o Discord será para comunicações maiis rápidas entre os membros da turma.
 ## Referências
+
+[Playlist](https://youtube.com/playlist?list=PLqa6qwgwbuzpRjOiueZNptmkM4dArMnUn) com os vídeos dos encontros síncronos.) com os vídeos dos encontros síncronos.
 
 1. Katti Faceli et al.. Inteligência artificial: uma abordagem de aprendizado de máquina. - Rio de Janeiro, RJ: LTC Ed., c2021.
 2. Stuart Russell, Peter Norvig. Inteligência artificial. Rio de Janeiro: Elsevier Campus, c2013. 988 p.
