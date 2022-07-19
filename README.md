@@ -152,6 +152,33 @@ O artigo final poderá ser entregue uma semana após o término da disciplina. A
 Apesar de a entrega ser feita após o último dia da disciplina, os resultados obtidos devem ser apresentados por
 cada equipe no dia 30/07/2022. O tempo de duração das apresentações não deve ser superior a 15 minutos.
 
+### Grupos
+
+- Grupo 01: 
+  - Autores: Alvaro Ferreira Pires de Paiva
+  - Título: Modelo de aprendizado de máquina para
+predição de hemoglobina glicada
+
+- Grupo 02:
+  - Autor: Lucas Felipe
+  - Título: Métodos de aprendizado de máquina aplicados na resposta causada pelos estresses oxidativos em plantas
+
+- Grupo 03:
+  - Autores: Jonathan Batista, Joeldson Costa Damasceno
+  - Título: Aplicação de Modelos de Machine Learning na predição de risco de crédito de clientes do Lending Club
+
+- Grupo 04:
+  - Autores: Larissa Kelmer de Menezes Silva
+  - Título: a definir
+
+- Grupo 05:
+  - Autores: Édipo Elder Fernandes de Melo, Miguel de Oliveira Ataíde
+  - Título: Previsão de Defeitos de Software com Aprendizado de Máquina
+
+- Grupo 06:
+  - Autores: Hugo B. C. Cortez\inst{1}, Italo O. Fernandes, Mike J. S. P. Silva
+  - Título: Modelo de Aprendizado de Máquina para detecção de Fake News brasileiras
+
 ## Comunicação
 
 A principal ferramenta de comunicação utilizada durante o curso da disciplina será o servidor no Discord. Utilize esse [convite](https://discord.gg/Uk9vpGGuuP) para acessar.
