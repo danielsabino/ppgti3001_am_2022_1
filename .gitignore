@@ -2,8 +2,8 @@
 *.DS_Store
 *.gslides
 dados-pessoais-discentes.csv
-05_AM_Nao_supervisionado/
 06_Redes_Convolucionais/
-07 - Aplicações
+06 - Aplicações
 Template - AM - PPgTI - 2022.1.gslides
 ppgti3001_am_c02_02_discentes_analise_scraping.ipynb
+.gitignore

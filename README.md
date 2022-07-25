@@ -66,14 +66,16 @@ Ao final do curso, o discente será capaz de:
   - [Notebooks](./04_AM_Supervisionado_Parte_II/exemplos/)
   - [Vídeo da aula](https://youtu.be/udHo-iYRnsU) 
 
-- Semana 03 - Sexta - 22/07 - Presencial
+- ~~Semana 03 - Sexta - 22/07 - Presencial~~
   - Análise de Agrupamentos
   - Medidas de similaridade
   - Dendograma e algoritmos hierárquicos.
   - k-means
   - Validação de agrupamentos
+  - Slides em [PDF](./05_AM_Nao_supervisionado/slides/ppgti_am_c05_AM_Nao_supervisionado.pdf) ou [Google Docs](https://docs.google.com/presentation/d/1eULsm-bcuArCgLR0caz5JMs-xkHKmYK5VQ5KxuyZV6E/edit?usp=sharing)
+  - [Notebooks](./05_AM_Nao_supervisionado/exemplos/)
 
-- Semana 03 - Sábado - 23/07 - Remoto
+- ~~Semana 03 - Sábado - 23/07 - Remoto~~
   - Dedicado para discentes trabalharem no projeto.
 
 - Semana 04 - Sexta - 29/07 - Remoto
