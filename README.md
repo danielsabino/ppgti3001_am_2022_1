@@ -64,7 +64,7 @@ Ao final do curso, o discente será capaz de:
   - Redes Neurais Artificiais
   - Slides em [PDF](./04_AM_Supervisionado_Parte_II/slides/PPgTI3001%20-%202022.1%20-%20AM%20-%2004%20-%20Classifica%C3%A7%C3%A3o%20-%20Parte%20II.pdf) ou [Google Docs](https://docs.google.com/presentation/d/1eULsm-bcuArCgLR0caz5JMs-xkHKmYK5VQ5KxuyZV6E/edit?usp=sharing)
   - [Notebooks](./04_AM_Supervisionado_Parte_II/exemplos/)
-  - [Vídeo da aula](https://youtu.be/udHo-iYRnsU) 
+  - [Vídeo da aula](https://youtu.be/udHo-iYRnsU)
 
 - ~~Semana 03 - Sexta - 22/07 - Presencial~~
   - Análise de Agrupamentos
@@ -156,7 +156,7 @@ cada equipe no dia 30/07/2022. O tempo de duração das apresentações não dev
 
 ### Grupos
 
-- Grupo 01: 
+- Grupo 01:
   - Autores: Alvaro Ferreira Pires de Paiva
   - Título: Modelo de aprendizado de máquina para
 predição de hemoglobina glicada
@@ -170,7 +170,7 @@ predição de hemoglobina glicada
   - Título: Aplicação de Modelos de Machine Learning na predição de risco de crédito de clientes do Lending Club
 
 - Grupo 04:
-  - Autores: Larissa Kelmer de Menezes Silva
+  - Autora: Larissa Kelmer de Menezes Silva
   - Título: a definir
 
 - Grupo 05:
@@ -178,8 +178,12 @@ predição de hemoglobina glicada
   - Título: Previsão de Defeitos de Software com Aprendizado de Máquina
 
 - Grupo 06:
-  - Autores: Hugo B. C. Cortez\inst{1}, Italo O. Fernandes, Mike J. S. P. Silva
+  - Autores: Hugo B. C. Cortez, Italo O. Fernandes, Mike J. S. P. Silva
   - Título: Modelo de Aprendizado de Máquina para detecção de Fake News brasileiras
+
+- Grupo 07:
+  - Autores: Gabriel C. Barros e Sá, João P. Freire Cabral, Thiago de A. Lima
+  - Título: Recomendação de tags no Stack Overflow: Uma comparação entre as técnicas X e Y
 
 ## Comunicação
 
